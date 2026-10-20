@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-json-html",
+  "versions": [
+    {
+      "commit": "bb4c2ed9538745f866a781be8db04f70e0531cc8",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:04:19.827551+00:00"
+    }
+  ]
+}
