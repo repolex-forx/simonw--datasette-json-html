@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-json-html/commit/bb4c2ed9538745f866a781be8db04f70e0531cc8",
       "git:hexsha": "bb4c2ed9538745f866a781be8db04f70e0531cc8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T10:04:19.827043+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-json-html/commit/6324eb0a33f4e29eef49e1081d471d2f97f0d5bc",
