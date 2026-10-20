@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "datasette-json-html",
+  "versions": [
+    {
+      "commit": "bb4c2ed9538745f866a781be8db04f70e0531cc8",
+      "parsed_at": "2026-10-20T10:02:15.379776+00:00",
+      "filetree": "filetree/bb4c2ed9538745f866a781be8db04f70e0531cc8.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/991d61c809056470c4f627bd00db9f188d99a634.nq.gz",
+        "blob/3270878931579eb0d844af38ad7ecfeb40bcfc4f.nq.gz",
+        "blob/7d146d2fae2274420d93b37621b49bf9ceedbb90.nq.gz",
+        "blob/de5b95d82030e62036cb986b6000b07548bc95dd.nq.gz",
+        "blob/b6d1d3d7ab45c6045c420d8f2c0e8e7f63edeaec.nq.gz",
+        "blob/74091fbf4dd2655365a867c955ad5e1f52659599.nq.gz",
+        "blob/958d123ec7fd19c7903f3a61068a7fe36f71f907.nq.gz",
+        "blob/2ba2afc85f65dcd2aa7b6d78741812d06a1118ea.nq.gz",
+        "blob/60680a744fefb2baddf159d5b030003e047195fe.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
